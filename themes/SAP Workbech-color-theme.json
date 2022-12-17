@@ -1,15 +1,9 @@
 {
+	"$schema": "vscode://schemas/color-theme",
 	"type": "light",
-	"name": "SAP Workbech",
+	"name": "SAP Workbench",
 	"colors": {
 		"foreground": "#000000",
-		// "welcomePage.background": "#ff0000",
-		// "welcomePage.tileBackground": "#ff0000",
-		// "welcomePage.progress.background": "#ff0000",
-		// "textBlockQuote.background":"#ff0000",
-		// "textCodeBlock.background":"#ff0000",
-		// "textLink.activeForeground": "#ff0000",
-		// "walkthrough.stepTitle.foreground":"#ff0000",
 		"activityBar.background": "#EAF1F6",
 		"activityBar.foreground": "#000000",
 		"activityBar.activeBorder": "#ffd865",
@@ -59,7 +53,7 @@
 		"statusBarItem.remoteForeground": "#ffffff",
 		"tab.lastPinnedBorder": "#61616130",
 		"terminal.inactiveSelectionBackground": "#e5ebf1",
-		"panel.background": "#EAF1F6"
+		"panel.background": "#EAF1F6",
 		//"activityBar.activeBorder": "#ffffff",
 		//"activityBar.background": "#2c2c2c",
 		//"activityBar.dropBorder": "#ffffff",
