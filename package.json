@@ -1,5 +1,5 @@
 {
-  "name": "sap-workbech",
+  "name": "sap-workbech-color-theme",
   "displayName": "SAP Workbech",
   "description": "SAP Workbech Color Theme",
   "version": "0.0.1",
@@ -14,7 +14,7 @@
       {
         "label": "SAP Workbech",
         "uiTheme": "vs",
-        "path": "./themes/SAP Workbech-color-theme.json"
+        "path": "./themes/sap-workbench-color-theme.json"
       }
     ]
   }
