@@ -1,0 +1,30 @@
+{
+  "name": "sap-workbech",
+  "displayName": "SAP Workbech",
+  "description": "SAP Workbech Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "author": {
+    "name": "Ivan Milazzotti",
+    "email": "mundoimilazzo@gmail.com",
+    "url": "https://github.com/iMilazzo"
+  },
+  "repository": {
+    "url": "https://github.com/iMilazzo/sap-workbench-vscode-theme.git",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SAP Workbech",
+        "uiTheme": "vs",
+        "path": "./themes/SAP Workbech-color-theme.json"
+      }
+    ]
+  }
+}
