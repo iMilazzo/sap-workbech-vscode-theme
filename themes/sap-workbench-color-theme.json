@@ -30,7 +30,7 @@
 		"menu.background": "#FFFFFF",
 		"menu.selectionBackground": "#ffd865a2",
 		"menu.selectionForeground": "#000000",
-		"menubar.selectionBackground": "#B0C6DC",
+		"menubar.selectionBackground": "#ffd865a2",
 		"list.activeSelectionIconForeground": "#ffffff",
 		"list.focusAndSelectionOutline": "#90c2f9",
 		"list.hoverBackground": "#e8e8e8",
@@ -87,7 +87,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#008000"
+				"foreground": "#999999"
 			}
 		},
 		{
@@ -128,7 +128,8 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#181818"
+				"foreground": "#333333",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -277,7 +278,7 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#4DA619"
+				"foreground": "#58b324"
 			}
 		},
 		{
