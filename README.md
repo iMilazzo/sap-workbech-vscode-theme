@@ -11,16 +11,29 @@ BTW, I'm very newbie in UI5, Javascript, XML and this world is captiving me ever
 * Some changes were made in this theme to adapt it to the vast amount of options that these languages ​​offer.
 * There colors used in SAP Workbench, color from SAP BTP and few "improvisations" that I made by my self.
 
+## Samples
+
+Main screen:
+![Main Screen](images/preview1.png "Main Screen")
+
+Javascript
+![Javascript](images/preview2.png "Javascript"
+
+XML
+![XML](images/preview3.png "XML")
+
+JSON
+![JSON](images/preview4.png "JSON")
+
 ## more...
 
 * _I hope I'm not breaking any rights by using SAP name, sorry if I did._
 
 ## About me
-Well..
 
 _**The code**, the final frontier\
 These are the voyages of Ivan Milazzotti\
-algo known as Mundo iMilazzo\
+also known as **Mundo iMilazzo**\
 Its more than 15 year mission\
 To explore strange new tecnologies\
 To seek out new languages\

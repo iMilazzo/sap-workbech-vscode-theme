@@ -3,7 +3,7 @@
   "name": "sap-workbech-color-theme",
   "displayName": "SAP Workbech",
   "description": "SAP like color theme for ABAP lovers who wants to code UI5 in VSCode. Very experimental!",
-  "version": "0.0.4", 
+  "version": "0.0.5", 
   "icon": "images/SAP_Workbench.ico",
   "keywords": ["SAP", "Workbench", "UI5", "Fiori", "ABAP"],
   "engines": {
