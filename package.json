@@ -5,7 +5,7 @@
   "description": "SAP like color theme for ABAP lovers who wants to code UI5 in VSCode. Very experimental!",
   "version": "0.0.6", 
   "icon": "images/SAP_Workbench.ico",
-  "keywords": ["SAP", "Workbench", "UI5", "Fiori", "ABAP"],
+  "keywords": ["SAP", "SAP Theme", "SAP Workbench Theme", "SAPUI5 Theme", "Fiori Theme", "ABAP Theme", "UI5 Theme", "Javascript Theme"],
   "engines": {
     "vscode": "^1.74.0"
   },
