@@ -17,7 +17,7 @@ Main screen:
 ![Main Screen](images/preview1.png "Main Screen")
 
 Javascript
-![Javascript](images/preview2.png "Javascript"
+![Javascript](images/preview2.png "Javascript")
 
 XML
 ![XML](images/preview3.png "XML")
