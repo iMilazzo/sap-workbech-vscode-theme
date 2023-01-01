@@ -155,7 +155,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#800000"
+				"foreground": "#0000ff"
 			}
 		},
 		{
@@ -381,7 +381,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#FF0000"
+				"foreground": "#0451A5"
 			}
 		},
 		{
@@ -402,6 +402,12 @@
 			"scope": "keyword.control",
 			"settings": {
 				"foreground": "#0000FF"
+			}
+		},
+		{
+			"scope": "keyword.other.important.css",
+			"settings": {
+				"foreground": "#FF0000"
 			}
 		},
 		{
