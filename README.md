@@ -10,7 +10,7 @@ I'm using it to write my codes in Javascript, UI5, Fiori, XML, HTML, CSS trying 
 
 * This theme is based on SAP Signature Colors.
 * Some changes were made in this theme to adapt it to the vast amount of options that other languages offer.
-* There are colors used in SAP Workbench, colors from SAP BTP and few a "improvisations" that I made by my self.
+* There are colors used in SAP Workbench, colors from SAP BTP and few a "improvisations" that I made by myself.
 
 ## Some samples
 
@@ -28,7 +28,7 @@ JSON sample
 
 ## more...
 
-* _I hope I'm not breaking any rights by using SAP name, sorry if I did._
+* _I hope I'm not breaking any rules or rights by using SAP name, sorry if I did._
 
 ## About me
 
@@ -38,7 +38,7 @@ also known as **Mundo iMilazzo**\
 Its more than 15 year mission\
 To explore strange new tecnologies\
 To seek out new languages\
-And new chanllenges\
+And new challenges\
 To boldly go where almost all of you already gone before..._
 
 **Enjoy!**
