@@ -7,3 +7,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+### Added
+
+- v0.1.4 Name fixed.
+
+### Changed
+
+- Name changed from Workbech to Workbench
+
+## [0.1.4] - 2025-06-04
+
+### Fixed
+
+- Name changed from Workbech to Workbench
+
+### Changed
+
+- Name changed from Workbech to Workbench
