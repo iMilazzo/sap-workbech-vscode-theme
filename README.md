@@ -1,4 +1,4 @@
-# SAP Workbech Theme README
+# SAP Workbench Theme README
 
 ## My very first extension
 
