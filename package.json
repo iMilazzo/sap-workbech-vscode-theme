@@ -1,7 +1,7 @@
 {
   "publisher": "mundoimilazzo",
-  "name": "sap-workbech-color-theme",
-  "displayName": "SAP Workbech",
+  "name": "sap-workbench-color-theme",
+  "displayName": "SAP Workbench",
   "description": "SAP like color theme for ABAP lovers who wants to code UI5 in VSCode. Very experimental!",
   "version": "0.1.3", 
   "icon": "images/SAP_Workbench.ico",
@@ -14,7 +14,7 @@
     "email": "mundoimilazzo@gmail.com"
   },
   "repository": {
-    "url": "https://github.com/iMilazzo/sap-workbech-vscode-theme.git",
+    "url": "https://github.com/iMilazzo/sap-workbench-vscode-theme.git",
     "type": "git"
   },
   "categories": [
@@ -23,7 +23,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "SAP Workbech",
+        "label": "SAP Workbench",
         "uiTheme": "vs",
         "path": "./themes/sap-workbench-color-theme.json"
       }
